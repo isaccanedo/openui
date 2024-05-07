@@ -78,6 +78,6 @@ The codespace installs ollama automaticaly and downloads the `llava` model.  You
 <img src="./assets/ollama.png" width="500" alt="Select Ollama models" />
 
 
-### Resources
+### *Resources*
 
 See the readmes in the [frontend](./frontend/README.md) and [backend](./backend/README.md) directories.
