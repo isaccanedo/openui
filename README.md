@@ -56,7 +56,7 @@ Now you can goto [http://localhost:7878](http://localhost:7878)
 
 A [dev container](https://github.com/wandb/openui/blob/main/.devcontainer/devcontainer.json) is configured in this repository which is the quickest way to get started.
 
-### Codespace
+### *Codespace*
 
 <img src="./assets/codespace.png" alt="New with options..." width="500" />
 
